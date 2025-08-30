@@ -36,7 +36,7 @@ To run these labs locally, you’ll need:
 ### Installation
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/Qiskit-Summer-School-2025.git
+git clone https://github.com/<your-Hichamben>/Qiskit-Summer-School-2025.git
 cd Qiskit-Summer-School-2025
 
 # Install dependencies
