@@ -17,11 +17,11 @@ The theme of the school was **Quantum Excellence**, with a focus on advanced top
   - Quantum advantage and scalability  
 
 
-- **Lab1_Intro_to_QC.ipynb** → Basics of Qiskit and quantum circuits  
-- **Lab2_Variational_Algorithms.ipynb** → VQAs and hybrid approaches  
-- **Lab3_Quantum_Error_Mitigation.ipynb** → Error suppression and mitigation techniques  
-- **Lab4_Hamiltonian_Simulation.ipynb** → Simulation of physical systems and lattice models  
-- **Lab5_Advanced_Topics.ipynb** → Exploration of cutting-edge research directions  
+- **Lab0_Intro_to_QC.ipynb** → Basics of Qiskit and quantum circuits  
+- **Lab1_Variational_Algorithms.ipynb** → VQAs and hybrid approaches  
+- **Lab2_Quantum_Error_Mitigation.ipynb** → Error suppression and mitigation techniques  
+- **Lab3_Hamiltonian_Simulation.ipynb** → Simulation of physical systems and lattice models  
+- **Lab4_Advanced_Topics.ipynb** → Exploration of cutting-edge research directions  
 
 ---
 
